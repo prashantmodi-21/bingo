@@ -6,7 +6,7 @@ const PORT = 3000
 const {Server} = require('socket.io')
 const io = new Server(server, {
     cors: {
-      origin: "http://127.0.0.1:5173"
+      origin: "https://bingo-fm5a.onrender.com"
     }
   })
 const {addUser, removeUser, getUser, getUserInRoom} = require('./user')
