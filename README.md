@@ -2,8 +2,8 @@
 
 ### [Live Site](https://bingo-fm5a.onrender.com)
 
-![Chat Application- Login](https://drive.google.com/file/d/1XA77fANlEY5mVkUeLKr5jWvAN1-NKWYm/view?usp=drive_link) 
-![Chat Application- Chat UI](https://drive.google.com/file/d/1J4U_9SeqFSR0Yk3v6klPxts2rb6SXmYl/view?usp=drive_link)
+![Chat Application- Login](https://i.postimg.cc/WbVzfxWR/login.png) 
+![Chat Application- Chat UI](https://i.postimg.cc/j2ZpcW3S/chat-room.png)
 
 ## Introduction
 This is a Group Chat Application Developed using React.js, Socket.io, Express and Node.js
