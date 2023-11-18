@@ -12,7 +12,7 @@ const Chat = () => {
     const [message, setMessage] = useState("")
     const [messages, setMessages] = useState([])
     const [roomUsers, setRoomUsers] = useState([])
-    const URL = 'https://bingo-web-service.onrender.com';
+    const URL = 'http://bingo-web-service.onrender.com';
     useEffect(() => {
         const { name, room } = queryString.parse(location.search)
         socket = io(URL);
